@@ -1,0 +1,39 @@
+baseURL: https://substancephiloshopy.com/
+languageCode: en-us
+title: Substance Philosophy
+theme: "PaperMod"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # is necessary
+
+    
+Params:
+  env: production
+  keywords: [Blog, Psychedelics, Trip, Drugs, Hallucinogens, Psilocybin, LSD, DMT, Mescaline, Ayahuasca, Peyote, San Pedro, Salvia, Cannabis, Marijuana, THC, CBD, CBN, CBG, CBL, CBT, CBC]
+  ShowReadingTime: true
+  ShowShareButtons: true
+  editPost:
+    URL: "https://github.com/angelsflyinhell/substance-philosophy/page/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+  ShowPostNavLinks: true
+  author: ["angelsflyinhell"]
+
+menu:
+  main:
+    - identifier: resources
+      name: Resources
+      url: /resources/
+      weight: 5
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: archives
+      name: Archive
+      url: /archives/
+      weight: 20
+

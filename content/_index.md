@@ -1,0 +1,1 @@
+Substance Philosophy is a public, open-source blog about the psychedelic experience and all things related.
