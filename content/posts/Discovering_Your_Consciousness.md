@@ -2,17 +2,17 @@
 title: "Discovering your consciousness"
 date: 2023-11-13T16:36:56+01:00
 draft: false
-summary: "A guide on how to safely experience a higher consciousness for the first time."
+summary: "A guide on how to safely experience a altered consciousness for the first time."
 cover:
   image: "https://onlineonlineonlineonline.online/qucrwh"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ShowToc: true
 ShowWordCount: true
 hideMeta: true
-tags: ["psychedelics", "psilocybin", "truffles", "mushrooms", "lsd", "dmt", "mescaline", "consciousness", "higher consciousness", "trip", "trip sitter", "guide"]
+tags: ["psychedelics", "psilocybin", "truffles", "mushrooms", "lsd", "dmt", "mescaline", "consciousness", "altered consciousness", "trip", "trip sitter", "guide"]
 ---
 
-Experiencing your higher conscious for the first time can be one of the most important and liberating experiences in your entire life, so I advise you to make the most out of it, but also be extra careful. In-depth research and preparation are key to a successful trip for discovering and working on yourself.
+Experiencing your altered conscious for the first time can be one of the most important and liberating experiences in your entire life, so I advise you to make the most out of it, but also be extra careful. In-depth research and preparation are key to a successful trip for discovering and working on yourself.
 
 Psychedelics can not only offer a beautiful trip, but can also assist you with working on yourself, giving you insight on your questions, showing you a path through life and making your brain more receptive to change.
 Of course, there's also a certain risk coming with substances like psilocybin, LSD, DMT or mescaline.
@@ -47,7 +47,7 @@ Directly before taking the psychedelic, turn off any computers and set your phon
 If you're tripping alone, which I do not recommend, write down contact details and other relevant information and keep it close to your body at all times. More sophisticated information about this can be found, and should be taken from the 10 commandments of the drug users bible.
 
 ###### Recovery
-A psychedelic experience is draining for both your body and mind. You will not only feel very tired right after the trip, but might have side-effects such as light fever or headaches the day after. Plenty of free time after being in a higher state of consciousness also gives you the opportunity to reflect on your experience and allows to write down and implement possible changes you might want in your life.
+A psychedelic experience is draining for both your body and mind. You will not only feel very tired right after the trip, but might have side-effects such as light fever or headaches the day after. Plenty of free time after being in an altered state of consciousness also gives you the opportunity to reflect on your experience and allows to write down and implement possible changes you might want in your life.
 Long breaks between drug usages are essential to reduce both the risk of addiction and to help with tolerance. Around 10 experiences per year is more than enough, but if you feel the need to, the absolute maximum usage frequency is about once in 2 weeks. More info about harm & addiction prevention is found in the drug users bible.
 
 ###### Company
@@ -71,7 +71,7 @@ After 30 - 40 minutes, you will quickly start noticing a slight blur on your vis
 Over the course of a few minutes after that, you will start noticing your vision becoming clearer again, even clearer than normally. The more you focus on one point, the stronger visual distortions will get. Abstract patterns and textures start to appear on walls, ceiling, paintings and even your skin. They will be gone as soon as you look away though. From now on, you're slowly approaching the peak of the trip. Once again relax and accept. If you're feeling unsure about your situation, try talking to your trip-sitter. Tell them about what you're experiencing and your thoughts, they will be there for you.
 Approaching the peak is a smooth process and you won't really be able to tell when you actually got there, but the effects are prominent nonetheless. Colors will appear way more saturated than usual, lights and shadows appear as if you were in a videogame or movie, almost as if someone adjusted the colors to look more appealing. Your surroundings start to appear as if they were breathing and in well-lit areas, textures might start to distort and scroll. When looking at your trip-sitter, their face might appear different than usual. They might appear as if they'd have different haircuts, quickly but also smoothly changing, their face might look more feminine or masculine, as if they had face paint, or almost animalistic. All of this comes with a feeling of sensation and deeply internal happiness.
 At this point, you've lost any sense of time and letters, numbers and words don't make as much sense anymore. They're there, but have lost their meaning. The only meaningful way of communication will be to talk to your trip-sitter. Feel free to explain and elaborate on your feelings and thoughts, which will feel not only heavily important, but also as if they were always correct in the first place. As if they were there before you and as if they'd be there after you, too.
-Your sober self and your higher conscious will feel fairly separate from each other, where your sober state is the one, you will knowingly return to later.
+Your sober self and your altered conscious will feel fairly separate from each other, where your sober state is the one, you will knowingly return to later.
 As you lay down, your blanket and bed will feel unbelievably soft and comfortable. You're closing your eyes to relax and you will suddenly start to imagine divine, almost godlike, ancient beings with abstract textures as their skin, only remotely similar to human beings in a static or alive form. You might envision them in different poses and you start to feel like you're them and they're you. Creatures of unknown wisdom, each with their own personality. With low dosages, they usually won't seem alive or interact with you, but this kind of behavior is quite common with higher dosages of psilocybin or LSD.
 The longer your trip goes, the more you will come to conclusions on questions about yourself, the world or life itself, introducing a sense of new wisdom and bliss. From now on, you're on your way back to sobriety, the comedown. This phase of the trip will take around 4 hours and gives you plenty of time to connect sober and rational thoughts with the takeaways of your experience.
 If you feel like it, try leaving the room you're currently in to go to the bathroom or anywhere else in your home. Any change in your surroundings will feel like an entirely new discovery, each room seeming to have it's own characteristics and impressions. Go back to your room as soon as you feel like it and sit or lay down on your bed again. If you want to save thoughts, feelings or anything else for after your trip, I recommend trying to write things down on your prepared paper. If writing itself does not work, try sketching your thoughts. Don't force yourself to do anything, only do the things you feel like doing.
