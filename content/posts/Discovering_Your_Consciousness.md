@@ -8,7 +8,6 @@ cover:
   relative: false # To use relative path for cover image, used in hugo Page-bundles
 ShowToc: true
 ShowWordCount: true
-hideMeta: true
 tags: ["psychedelics", "psilocybin", "truffles", "mushrooms", "lsd", "dmt", "mescaline", "consciousness", "altered consciousness", "trip", "trip sitter", "guide"]
 ---
 
