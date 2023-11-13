@@ -2,7 +2,7 @@
 title: "Discovering your consciousness"
 date: 2023-11-13T16:36:56+01:00
 draft: false
-summary: "A guide on how to safely experience a altered consciousness for the first time."
+summary: "A guide on how to safely experience an altered consciousness for the first time."
 cover:
   image: "https://onlineonlineonlineonline.online/qucrwh"
   relative: false # To use relative path for cover image, used in hugo Page-bundles
