@@ -1,4 +1,4 @@
-baseURL: https://substancephilosophy.com/.com/
+baseURL: https://substancephilosophy.com/
 languageCode: en-us
 title: Substance Philosophy
 theme: "PaperMod"
@@ -11,6 +11,8 @@ outputs:
 
     
 Params:
+  comments: true
+  disqusShortname: substancephilosophy
   env: production
   keywords: [Blog, Psychedelics, Trip, Drugs, Hallucinogens, Psilocybin, LSD, DMT, Mescaline, Ayahuasca, Peyote, San Pedro, Salvia, Cannabis, Marijuana, THC, CBD, CBN, CBG, CBL, CBT, CBC]
   ShowReadingTime: true
