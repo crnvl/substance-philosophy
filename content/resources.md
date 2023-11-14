@@ -11,6 +11,7 @@ An ever evolving collection of important and helpful links all around psychedeli
 ### Research & Harm-prevention
 - [PsychonautWiki](https://psychonautwiki.org/wiki/Main_Page)
 - [DMT-Nexus](https://www.dmt-nexus.me/)
+- [Subjective Effect Index](https://www.effectindex.com/effects)
 - [The Drug Users Bible (Extended)](https://drive.google.com/file/d/1PS1xzenzffwIeQtY_P_sfMqbCrzNI4rc/view)
 - [The Drug Users Bible (Free PDF) - .onion via Dread](http://g66ol3eb5ujdckzqqfmjsbpdjufmjd5nsgdipvxmsh7rckzlhywlzlqd.onion/DrugUsersBible.pdf)
 
