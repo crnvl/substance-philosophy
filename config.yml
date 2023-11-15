@@ -18,7 +18,7 @@ Params:
   ShowReadingTime: true
   ShowShareButtons: true
   editPost:
-    URL: "https://github.com/angelsflyinhell/substance-philosophy/page/content"
+    URL: "https://github.com/angelsflyinhell/substance-philosophy/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
   ShowPostNavLinks: true
