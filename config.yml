@@ -26,6 +26,10 @@ Params:
 
 menu:
   main:
+    - identifier: discord
+      name: Discord
+      url: https://discord.gg/4mCHuhetAW
+      weight: 1
     - identifier: resources
       name: Resources
       url: /resources/
