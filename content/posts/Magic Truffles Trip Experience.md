@@ -1,6 +1,6 @@
 ---
-title: "Magic Truffles Trip Experience"
-date: 2023-11-13T16:36:56+01:00
+title: "First Magic Truffles Trip Experience"
+date: 2023-12-27T19:24:39+00:00
 draft: false
 summary: "A personal trip report on magic truffles."
 cover:
