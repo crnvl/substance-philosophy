@@ -3,9 +3,6 @@ title: "Dangerous interactions with LSD"
 date: 2024-01-23T11:31:14+00:00
 draft: false
 summary: "Taking LSD in combination with SSRIs is often a misunderstood risk."
-cover:
-  image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.everydayhealth.com%2Femotional-health%2Fdo-antidepressants-improve-quality-of-life%2F&psig=AOvVaw1J3NHi9T-TznJRrRdN2VBT&ust=1706105524541000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjkps7Y84MDFQAAAAAdAAAAABAD"
-  relative: false # To use relative path for cover image, used in hugo Page-bundles
 ShowToc: true
 ShowWordCount: true
 tags: ["psychedelics", "psilocybin", "lsd", "ssri", "antidepressant", "citalopram", "serotonin syndrome", "fatal", "risks", "harm reduction"]
