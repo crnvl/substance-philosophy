@@ -1,6 +1,6 @@
 ---
 title: "Dangerous interactions with LSD"
-date: 2024-01-23T16:31:14+00:00
+date: 2024-01-23T11:31:14+00:00
 draft: false
 summary: "Taking LSD in combination with SSRIs is often a misunderstood risk."
 cover:
